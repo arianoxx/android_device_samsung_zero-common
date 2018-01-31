@@ -182,6 +182,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     wifi.interface=wlan0 \
     debug.hwc.force_gpu=1 \
     ro.bq.gpu_to_cpu_unsupported=1
+    video.accelerate.hw=1
     
 # media build properties
 PRODUCT_PROPERTY_OVERRIDES += \
